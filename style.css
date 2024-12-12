@@ -1,0 +1,14 @@
+:root { --mavi: #6bc2f1}
+
+header { background: url(img/headerbg.jpg) 60% 50%/cover }
+
+.text-mavi { color: var(--mavi) }
+.bg-mavi { background-color: var(--mavi) }
+.bg-boz { background-color: #f1f1f1 }
+.vh-50 { min-height: 50vh }
+
+#features1 { background: url('img/features1.jpg') center/cover }
+#features2 { background: url('img/features2.jpg') center/cover }
+
+#features1:hover, #features2:hover { opacity: .5 }
+#features1:hover h5, #features2:hover h5 {opacity: 1!important }

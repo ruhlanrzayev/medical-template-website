@@ -9,6 +9,25 @@ header { background: url(img/headerbg.jpg) 60% 50%/cover }
 .bg-boz { background-color: #f1f1f1 }
 .vh-50 { min-height: 50vh }
 
+.carousel-item { height: 400px; }
+.carousel-caption { top: 1.25rem; }
+
+.carousel-indicators button {
+    width: 45px!important;
+    height: 45px!important;
+    border-radius: 50%;
+    transition: all .5s ease-in-out!important;
+
+}
+.carousel-indicators button.active {
+    width: 70px!important;
+    height: 70px!important;
+    border-radius: 50%;
+}
+
+#otherbutton {
+    background-color: transparent!important;
+}
 
 #features1 { background: url('img/features1.jpg') center/cover }
 #features2 { background: url('img/features2.jpg') center/cover }

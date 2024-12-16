@@ -13,4 +13,4 @@ A responsive medical website template built using Bootstrap to practice front-en
 
 ## Contact
 Created by [Ruhlan Rzayev](https://github.com/ruhlanrzayev) - feel free to contact me!
-[Instagram](https://instagram.com/ruhlan33) [LinkedIn](https://linkedin.com/in/ruhlanrzayev)
+[Instagram](https://instagram.com/ruhlan33) [LinkedIn](https://linkedin.com/in/ruhlanrzayev) .

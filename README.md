@@ -1,12 +1,12 @@
 # Medical Website Template
 A responsive medical website template built using Bootstrap to practice front-end development skills.
  
-## Technologies Used
+## Technologies Used:
 - HTML5
 - CSS3
 - Bootstrap 5
 
-## Features
+## Features:
 - Responsive design
 - Clean and modern UI
 - Easy navigation
